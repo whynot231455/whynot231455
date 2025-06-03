@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noel Joseph Varghese</h1>
-<h3 align="center">A prospect for learning new and exciting things in life.</h3>
+<h3 align="center">A passionate learning coder.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whynot231455&label=Profile%20views&color=4c0be5&style=flat" alt="whynot231455" /> </p>
 
