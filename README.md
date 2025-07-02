@@ -28,4 +28,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whynot231455&show_icons=true&theme=radical&locale=en" alt="whynot231455" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whynot231455&" alt="whynot231455" /></p>
