@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Noel Joseph Varghese</h1>
-<h3 align="center">🚀 AI & Web Developer | Building Real-World Products</h3>
+<h3 align="center">🚀 AI Engineer | Building Real-World Products</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=whynot231455&label=Profile%20views&color=4c0be5&style=flat" alt="profile views" />
