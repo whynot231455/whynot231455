@@ -10,18 +10,10 @@
 ## 🧠 About Me
 
 - 🎓 BTech AI & Robotics Student  
-- 💡 Passionate about **AI, Web Development & Product Building**  
+- 💡 Passionate about **AI & Product Building**  
 - 🚀 Currently building **Ctrl+Block – A Smart Web Blocker Chrome Extension**  
 - 📈 Always exploring ways to turn ideas into **real, usable products**  
 - ⚡ Strong interest in **automation, ML systems & scalable apps**
-
----
-
-## 🔥 Current Focus
-
-- 🧩 Building: **Ctrl+Block (Chrome Extension)**
-- 📚 Learning: `JavaScript`, `Python`, `System Design`
-- 🧠 Exploring: AI-powered tools & real-time systems
 
 ---
 
@@ -31,15 +23,12 @@
   👉 https://www.linkedin.com/in/noel-joseph-varghese-576507273/
 
 - 📧 Email:  
-  👉 shibuanuno@gmail.com  
+  👉 noeljosephvarghese@gmail.com
 
 ---
 <h3 align="center">🤝 Connect With Me</h3>
 
 <p align="center">
-  <a href="https://twitter.com/w231455">
-    <img src="https://skillicons.dev/icons?i=twitter" height="50" />
-  </a>
   <a href="https://linkedin.com/in/noel-joseph-varghese">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
@@ -56,7 +45,7 @@
 <h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,java,figma" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,python,java,figma" />
 </p>
 
 ---
