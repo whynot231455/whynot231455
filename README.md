@@ -32,12 +32,6 @@
   <a href="https://linkedin.com/in/noel-joseph-varghese">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
-  <a href="https://www.codechef.com/users/whynot231455">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" height="50" />
-  </a>
-  <a href="https://www.hackerrank.com/@shibuanuno">
-    <img src="https://skillicons.dev/icons?i=hackerrank" height="50" />
-  </a>
 </p>
 
 ---
@@ -53,17 +47,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=whynot231455&show_icons=true&theme=tokyonight" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=whynot231455&theme=tokyonight" />
 </p>
 
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=whynot231455&theme=algolia" />
-</p>
 
 ---
 
