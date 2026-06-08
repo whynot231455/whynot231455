@@ -25,12 +25,24 @@
 - 📧 Email:  
   👉 noeljosephvarghese@gmail.com
 
----
-<h3 align="center">🤝 Connect With Me</h3>
+--- 
+<h3 align="center"> My Socials </h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/noel-joseph-varghese">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  <a href="https://linkedin.com/in/noel-joseph-varghese" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
+  </a>
+  <a href="https://www.behance.net/noeljosephvarghese" target="_blank">
+    <img src="https://skillicons.dev/icons?i=behance" height="50" alt="Behance" />
+  </a>
+  <a href="https://www.instagram.com/why_not_231455_/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" alt="Instagram" />
+  </a>
+  <a href="https://www.youtube.com/@noeljosephvarghese" target="_blank">
+    <img src="https://skillicons.dev/icons?i=youtube" height="50" alt="YouTube" />
+  </a>
+  <a href="https://www.pinterest.com/why_not_231455/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=pinterest" height="50" alt="Pinterest" />
   </a>
 </p>
 
