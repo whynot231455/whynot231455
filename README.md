@@ -54,8 +54,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=whynot231455&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=whynot231455&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="165em" src="https://raw.githubusercontent.com/whynot231455/whynot231455/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
+  <img height="165em" src="https://raw.githubusercontent.com/whynot231455/whynot231455/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
 </p>
 
 <p align="center">
@@ -64,15 +64,12 @@
 
 ---
 
-## 📌 Profile Summary
+## 📌 Languages & Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whynot231455&theme=tokyonight" alt="profile details" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whynot231455&theme=tokyonight" alt="repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=whynot231455&theme=tokyonight" alt="most commit language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=whynot231455&theme=tokyonight" alt="productive time" />
+  <img src="https://raw.githubusercontent.com/whynot231455/whynot231455/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos per language" />
+  <img src="https://raw.githubusercontent.com/whynot231455/whynot231455/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most commit language" />
+  <img src="https://raw.githubusercontent.com/whynot231455/whynot231455/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="productive time" />
 </p>
 
 ---
