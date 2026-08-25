@@ -64,16 +64,6 @@
 
 ---
 
-## 📌 Languages & Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/whynot231455/whynot231455/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos per language" />
-  <img src="https://raw.githubusercontent.com/whynot231455/whynot231455/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most commit language" />
-  <img src="https://raw.githubusercontent.com/whynot231455/whynot231455/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="productive time" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
