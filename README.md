@@ -92,12 +92,6 @@
 
 ---
 
-## 💡 Quote I Believe In
-
-> “Build things. Break things. Learn fast. Repeat.”
-
----
-
 <p align="center">
   ⭐ <i>If you like my work, feel free to star my repositories and connect with me!</i>
 </p>
