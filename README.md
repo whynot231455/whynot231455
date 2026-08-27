@@ -2,7 +2,7 @@
 <h3 align="center">🚀 AI Engineer | Building Real-World Products</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4C0BE5&center=true&vCenter=true&width=560&lines=BTech+AI+%26+Robotics+Student;Building+Ctrl%2BBLCK+%E2%80%94+Smart+Web+Blocker;Turning+ideas+into+real%2C+usable+products" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4C0BE5&center=true&vCenter=true&width=560&lines=BTech+AI+%26+Robotics+Student;Building+CTRL%2BBLCK+%E2%80%94+Smart+Web+Blocker;Turning+ideas+into+real%2C+usable+products" alt="typing animation" />
 </p>
 
 <p align="center">
